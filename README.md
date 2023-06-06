@@ -17,6 +17,6 @@ Parte 2 (en pareja):
 - Publicar cambios.
 
 
-Parte 3(solos):
+Parte 3 (solos):
 
 - Documentar el proceso de la parte 2
