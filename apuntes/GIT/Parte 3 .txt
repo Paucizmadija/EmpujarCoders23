@@ -1,0 +1,10 @@
+﻿3) 
+
+
+Para clonar el repositorio de mi compañera, Eli Chamorro, y poder modificar el mismo primero necesité ser colaboradora. 
+
+
+Luego pude acceder a su archivo de texto con mi editor y así lograr el objetivo. 
+
+
+Al finalizar, para asentar cambios utilice git add, git commit -m y para actualizarlo en el repositorio remoto utilice git push origin main
