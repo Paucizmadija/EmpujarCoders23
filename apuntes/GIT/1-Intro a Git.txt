@@ -1,0 +1,10 @@
+﻿- git commit: es un comando de Git que guardará todos los cambios hechos en la zona de montaje o área de preparación (staging area), junto con una breve descripción del usuario, en un "commit" al repositorio local. Git commit es como establecer un punto de control en el proceso de desarrollo al cual puedes volver más tarde si es necesario.
+
+
+- git fetch: este comando actualiza todas las referencias de rama remota en tu repositorio local. En realidad, no se reflejan cambios en ninguna de las ramas de trabajo locales.
+
+
+- git pull: El comando git pull se utiliza para recibir actualizaciones del repositorio remoto. Este comando es una combinación del git fetch y del git merge lo cual significa que cundo usemos el git pull recogeremos actualizaciones del repositorio remoto (git fetch) e inmediatamente aplicamos estos últimos cambios en local (git merge).
+
+
+- git push: El comando git push te permite subir los commits desde tu rama (branch) local en tu repositorio git local al repositorio remoto.
